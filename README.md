@@ -20,3 +20,9 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![](https://readme.rocks/api/view?queryConfig%5Busername%5D=ekurt&id=641b2efa3e90e7e555cdacd7)
+![](https://readme.rocks/api/view/6431d5e3427543322b67f6ca)
+
+![](https://readme.rocks/api/view/6431d80e427543322b67f6cc)
+![](https://readme.rocks/api/view/6431d85d427543322b67f6cd)
