@@ -1,5 +1,11 @@
 ## Hi there 👋 I'm Emre.
 
+Experienced front-end developer with 3 years of expertise. Skilled in HTML, CSS, and JavaScript, I specialize in
+creating user-friendly and visually appealing web interfaces. Collaborative team player who effectively
+communicates and delivers projects on time. Passionate about staying updated with the latest trends and
+technologies. Committed to enhancing digital experiences and solving problems through analytical thinking.
+Excited to contribute my skills and knowledge to your team.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ekurtdev)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ekurtdev)  
 <!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ekurt) -->
